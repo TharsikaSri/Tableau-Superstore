@@ -16,10 +16,10 @@ The main tool used in this project is <b><i> Tableau </i></b>. It used to clean 
 
 <div align="center"> <h3 align="center"> 🧐 Insights 🧐 </h3> </div>
 
-The image below: <br>
+The image below representation a connection between the 3 tables: <br>
 ![image](https://github.com/TharsikaSri/Tableau-SuperstoreDS/assets/150933187/1a766080-3f98-4516-af7d-1907090769e1)
 
-Superstore Story: <br>
+Visualisations: <br>
 ![image](https://github.com/TharsikaSri/Tableau-SuperstoreDS/assets/150933187/9f5f7b5c-e6b3-4730-bd08-f74059314c64)
 
 The Superstore story can be accessed using the link below: https://public.tableau.com/app/profile/tharsika.srisenthivel/viz/SalesReturns_16953927925200/SalesReturns
