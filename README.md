@@ -1,6 +1,6 @@
 <div align="center"> <h2 align="center"> Greetings to the Superstore project. Inside this repositiory, you'll discover a comprehensive analysis of the Superstore dataset. The tools I have used for this project is Tableau </h2> </div>
 
-<div align="center"> <h3 align="center"> 🎯 Goals 🎯 </h3> </div>
+<div align="center"> <h3 align="center"> 🎯 Goals 🎯 </h3> </div> 
 The aim of the Superstore project is to clean the data, estabilish a connection between the tables and create dashboards and a story using the Tableau application.
 
 <div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
